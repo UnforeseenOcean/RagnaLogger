@@ -1,6 +1,7 @@
 # RagnaLogger
 Score tracker for Ragnarock
 ---
+Please note: This is a work-in-progress project, and the supplied Visual Studio 2022 project is not yet compilable. If you'd like to build the features requested by the community, feel free to do so, and also visit https://trello.com/b/6eNGPgQH/ragnalogger for more information.
 
 # Disclaimer
 This repository, program, code, compiled binary, and component bundle is provided "as-is" without any warranty or guarantee for fitness for any purpose, implied or otherwise. 
